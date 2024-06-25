@@ -2,8 +2,8 @@
 // @name        Hide Me Please
 // @namespace    http://tampermonkey.net/
 // @version      1.18
-// @description  Masquer des lignes dans un tableau avec Tampermonkey
-// @author       Vous
+// @description  Masquer des lignes dans un tableau avec Tampermonkey -- Version 26 Juin 2024 00h07
+// @author       Ashemka
 // @match        https://www.amazon.fr/vine/vine-reviews*
 // @icon         https://pickme.alwaysdata.net/img/314858-hidden-eye-icon.png
 // @grant        GM_registerMenuCommand
